@@ -6,5 +6,5 @@ workflow "Build and deploy pull requests" {
 action "Ruby Example" {
   uses = "./.github/ruby_action"
   secrets = ["GITHUB_TOKEN"]
-  runs = "make test"
+  runs = "make install && make test"
 }
