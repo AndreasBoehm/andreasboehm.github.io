@@ -38,7 +38,7 @@ disqus:
 
 # if you don't have any of social below, comment the line
 #facebook: myfacebook
-twitter: mrequalizer
+#twitter: mrequalizer
 # google: mygoogle
 instagram: mrequalizer
 # pinterest: mypinterest
@@ -46,7 +46,7 @@ linkedin: andreas-boehm
 # youtube: myyoutube
 # spotify: myspotify
 github: AndreasBoehm
-# gitlab: mygitlab
+gitlab: AndreasBoehm
 lastfm: mrequalizer
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
@@ -62,7 +62,7 @@ authors:
         #bio: A Man who travels the world eating noodles
         external-image: true
         picture: https://s.gravatar.com/avatar/6e2fcbd15ddc20410a86bff5be9022de?s=600
-        twitter: mrequalizer
+        #twitter: mrequalizer
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
